@@ -1,9 +1,18 @@
 <a id ="up"></a>
 ![logo](images/logo.png)
 
-### Webhook-controller
+### WebhookController
 🌐The prog for controlling discord webhooks written on python
-
+<p>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/build-passing-76B900?style=for-the-badge&logo=&logoColor=whit">
+  <img src="https://img.shields.io/badge/tests-98/100-76B900?style=for-the-badge&logo=&logoColor=whit">
+  <img src="https://img.shields.io/badge/code quality-B+-76B900?style=for-the-badge&logo=&logoColor=whit">
+  <img src="https://img.shields.io/badge/license-MIT-blue?style=for-the-badge&logo=&logoColor=whit">
+  <img src="https://img.shields.io/badge/WebhookController-v1.0.0-blue?style=for-the-badge&logo=&logoColor=whit">
+</p>
 
 ---
 
